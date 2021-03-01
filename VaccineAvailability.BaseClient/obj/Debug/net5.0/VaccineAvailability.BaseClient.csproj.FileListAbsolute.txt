@@ -1,0 +1,12 @@
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/bin/Debug/net5.0/VaccineAvailability.BaseClient.deps.json
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/bin/Debug/net5.0/VaccineAvailability.BaseClient.dll
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/bin/Debug/net5.0/ref/VaccineAvailability.BaseClient.dll
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/bin/Debug/net5.0/VaccineAvailability.BaseClient.pdb
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.csprojAssemblyReference.cache
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.AssemblyInfoInputs.cache
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.AssemblyInfo.cs
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.csproj.CoreCompileInputs.cache
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.dll
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/ref/VaccineAvailability.BaseClient.dll
+/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/obj/Debug/net5.0/VaccineAvailability.BaseClient.pdb

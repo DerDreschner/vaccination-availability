@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnqR9xpBAr4VrQM1SjhnoKzmGc+Q/5rIKbBE5dbe0ftwZROcvpOs0esVSQG9Oy9/eMNdf54hiqSHaJdcpWRAVQ==",
+  "success": true,
+  "projectFilePath": "/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.BaseClient/VaccineAvailability.BaseClient.csproj",
+  "expectedPackageFiles": [
+    "/home/ddreschner/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

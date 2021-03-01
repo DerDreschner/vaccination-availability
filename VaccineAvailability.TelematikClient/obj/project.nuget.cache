@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GX8CYd3bbL7hZ6WeaXYvzLubm2Wd3C2a5ifMVTKMWohM5t1jjsDIoKbFmoiE8ymqL2IERy/H103feeDC902TWw==",
+  "success": true,
+  "projectFilePath": "/home/ddreschner/RiderProjects/VaccineAvailability/VaccineAvailability.TelematikClient/VaccineAvailability.TelematikClient.csproj",
+  "expectedPackageFiles": [
+    "/home/ddreschner/.nuget/packages/macross.json.extensions/1.5.0/macross.json.extensions.1.5.0.nupkg.sha512",
+    "/home/ddreschner/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/home/ddreschner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/ddreschner/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512",
+    "/home/ddreschner/.nuget/packages/refit/6.0.24/refit.6.0.24.nupkg.sha512",
+    "/home/ddreschner/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
+    "/home/ddreschner/.nuget/packages/system.text.json/5.0.1/system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
